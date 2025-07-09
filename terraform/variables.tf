@@ -3,7 +3,7 @@ variable "instance_name" {
 }
 
 variable "key_name" {
-  default = "primevideo"                  # Names of key in aws
+  default = "cloudaseem"                  # Names of key in aws
 }
 
 
