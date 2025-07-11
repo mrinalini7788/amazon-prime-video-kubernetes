@@ -234,5 +234,4 @@ Familiarity with basic Linux commands and best practices for server management (
 💻 Application Development Stack
 Worked with applications built using Next.js and Node.js, understanding their dependencies and execution environment (npm install, port 3000).
 
-💰 Cost Management in Cloud
-Learned the importance of destroying cloud resources after project completion to avoid unnecessary costs and the process of requesting bill waivers from AWS.
+
